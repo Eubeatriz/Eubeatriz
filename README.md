@@ -1,5 +1,6 @@
 
-# Hello, my name is Beatriz! 
+# Hello, my name is Beatriz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ***
 🇺🇸
@@ -10,7 +11,7 @@
 
 - 📊: Focused on Data Analysis, Visualization, Automation and Data Science
 
-- 📚: Currently learning Python for data, SQL, Power BI, statistic and data analysis  
+- 📚: Currently learning Python for data, SQL, Power BI, statistic and data analysis 
 
 - 🧠: Passionate about turning data into meaningful decisions  
 
