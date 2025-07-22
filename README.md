@@ -21,7 +21,7 @@
 - 🌍: São Paulo – Brazil
 
 - 🎀: Curiosities about me 
-     🏎️: I love Formula 1  🎮: enjoy play  📖: trying to read more
+     🏎️: I love Formula 1  🎮: enjoy play  📖: trying to read more  🎤: always in concerts!
 
 
 ***
@@ -44,7 +44,8 @@ br
 - 🌍 São Paulo – Brasil   
 
 - 🎀: Curiosidades sobre mim
-     🏎️: Amo Fórmula 1  🎮: adoro jogar  📖: buscando ler mais
+     🏎️: Amo Fórmula 1  🎮: adoro jogar  📖: buscando ler mais  🎤: não perco um show!
+
 
   ***
   ## ✨Meus Projetos✨
